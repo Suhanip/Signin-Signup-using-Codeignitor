@@ -1,5 +1,5 @@
-# Signin-Signup-using-Codeignitor
-Complete user registration and login system using Codeignitor
+# Signin-Signup-using-Codeigniter
+Complete user registration and login system using Codeigniter
 
 This repository contains the code files for Simple authentication mechanism using Codeignitor 3.1.1 with
 1. Registration/Signup
@@ -11,7 +11,7 @@ The database is present in the folder named **'database'**.
 
 version of the packages used:
 
-1. Codeignitor-3.1.1
+1. Codeigniter-3.1.1
 2. Xampp-7.4.5
 3. Apache-2.4.43
 4. MariaDB-10.4.11
